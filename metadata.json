@@ -1,0 +1,6 @@
+{
+  "name": "Patel Mall",
+  "description": "A premium modern quick-commerce grocery delivery app for Kotda Jadodar, Gujarat, offering rapid delivery, digital billing, voice search, and comprehensive admin and delivery workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,21 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shadow background backing for visual depth -->
+    <path
+        android:fillColor="#0D3B1E"
+        android:pathData="M37,47 h34 v28 h-34 z" />
+    <!-- Patel Mall Yellow Bag Body -->
+    <path
+        android:fillColor="#F9C013"
+        android:pathData="M34,44 C34,42 35.5,40.5 37.5,40.5 h33 C72.5,40.5 74,42 74,44 v26 C74,28 74,73 72,73 H36 C34,73 34,71 34,69 z" />
+    <!-- White Premium Handle loop -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M46,40.5 C46,32.5 62,32.5 62,40.5" />
+</vector>
